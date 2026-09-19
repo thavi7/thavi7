@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Avi<br>B.Tech IT student passionate about software development.<br>Competitive programmer who enjoys solving algorithmic problems.<br>Skilled in C++, Java, JavaScript, React, SpringBoot, Node.js, and backend technologies.<br>Always focused on learning, improving, and building practical solutions.
+I’m Abhisek, a B.Tech Information Technology student with a strong passion for software development, problem-solving, and technology. I enjoy exploring how things work under the hood and challenging myself with complex programming problems. Competitive programming has helped me develop strong logical thinking and algorithmic problem-solving skills, while my development projects have given me practical experience in building real-world applications.
+
+I primarily work with C++ and have a strong interest in data structures, algorithms, and systems programming. Alongside competitive programming, I have explored full-stack development using technologies such as React, Node.js, Express, MongoDB, and MySQL. I also enjoy working on challenging technical projects, including algorithm-based systems and compiler development, as they allow me to understand both the theory and practical side of software engineering.
+
+I’m a curious and self-driven learner who believes in learning by building. I’m constantly experimenting with new technologies, improving my coding skills, and working on projects that push me beyond my comfort zone. My goal is to become a strong software engineer who can solve meaningful problems, design efficient systems, and continuously grow with the rapidly evolving world of technology.
+
 
 
 ## 🌐 Socials:
